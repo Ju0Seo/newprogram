@@ -1,0 +1,2 @@
+# newprogram
+newprogram (MFC)
